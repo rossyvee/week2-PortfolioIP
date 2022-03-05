@@ -35,6 +35,12 @@ header{
     padding: 15px;
     width: 10vw;
     border-radius: 15px;    
-
+}
+#submit-btn{
+    width: 15vw;
+    margin-top: 5%;
+    padding: 15px;
+    border-radius: 15px;
+    font-size: 20px;
 }
 
