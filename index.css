@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: wheat;
+    background-image:url(./Image/Akans.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    max-width: 100%;
+}
+.col-md-12 h1{
+    text-align: center;
+}
