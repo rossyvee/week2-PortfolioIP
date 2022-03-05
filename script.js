@@ -20,3 +20,5 @@ const NAMES = {
         "saturday": "Ama"
     }
 }
+
+let birthday = document.getElementById('birthday');
