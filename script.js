@@ -22,3 +22,4 @@ const NAMES = {
 }
 
 let birthday = document.getElementById('birthday');
+let gender = document.getElementById('gender');
