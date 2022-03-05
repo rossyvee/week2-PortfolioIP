@@ -23,3 +23,5 @@ const NAMES = {
 
 let birthday = document.getElementById('birthday');
 let gender = document.getElementById('gender');
+let submitBtn = document.getElementById('submit-btn');
+let results = document.getElementById("result-name");
