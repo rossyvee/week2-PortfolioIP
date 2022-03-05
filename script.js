@@ -30,4 +30,22 @@ submitBtn.onclick = (event) => {
     event.preventDefault();
     let genderValue = gender.options[gender.selectedIndex].value;
     let birthdayValue = birthday.value;
+    if (!birthdayValue || !genderValue) {
+        alert("all fields are required!")
+    }
+    else {
+        // get day of the week from the birthday
+        let officialBirthDay = new Date(birthdayValue)
+        let day = DAYS[officialBirthDay.getDay()];
+        if (genderValue === "male") {
+            let akanName = NAMES.male[day];
+            // console.log(akanName);
+            results.innerHTML = akanName;
+        }
+        else {
+            let akanName = NAMES.female[day];
+            // console.log(akanName);
+            results.innerHTML = akanName;
+        }
+    }
 }
