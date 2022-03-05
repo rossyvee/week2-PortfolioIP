@@ -25,3 +25,9 @@ let birthday = document.getElementById('birthday');
 let gender = document.getElementById('gender');
 let submitBtn = document.getElementById('submit-btn');
 let results = document.getElementById("result-name");
+
+submitBtn.onclick = (event) => {
+    event.preventDefault();
+    let genderValue = gender.options[gender.selectedIndex].value;
+    let birthdayValue = birthday.value;
+}
