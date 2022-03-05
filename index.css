@@ -2,10 +2,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+
 }
-header{
+body{
     background-color: wheat;
-    background-image:url(./Image/Akans.jpg);
+    /* background-image:url(./Image/Akans.jpg); */
     background-size: cover;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -34,7 +35,8 @@ header{
 #gender{
     padding: 15px;
     width: 10vw;
-    border-radius: 15px;    
+    border-radius: 15px;
+    
 }
 #submit-btn{
     width: 15vw;
@@ -42,5 +44,9 @@ header{
     padding: 15px;
     border-radius: 15px;
     font-size: 20px;
-}
+    margin-left: 130%;
 
+}
+#result{
+    text-align: center;
+}
