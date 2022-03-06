@@ -34,11 +34,11 @@ OUTPUT: "Displays User's Akan Name According to Submitted Date and Gender"
 * [x] Displays an Error Message if Date Input Left Blank
 INPUT: ""
 OUTPUT: "Displays Error Message"
-* [x]Displays an Error Message if Gender Not Chosen
+* [x] Displays an Error Message if Gender Not Chosen
 INPUT: ""
-* [x]OUTPUT: "Display an Error Message"
+* [x] OUTPUT: "Display an Error Message"
 Clears Form and Reset the Message on Click
-* [x]INPUT: "Click Reset Button"
+* [x] INPUT: "Click Reset Button"
 OUTPUT: "Clears and Resets the Form"
 [live-link](git@github.com:rossyvee/week2-PortfolioIP.git)
 ## Reference
