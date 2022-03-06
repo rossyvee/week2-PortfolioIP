@@ -21,9 +21,9 @@ A web application that takes a user's birthday and calculates the day of the wee
 ## Requirements
 * Javascript console
 ## set up instruction and installation
-clone this repository to alocation in your file system  git clone git@github.com:rossyvee/week2-PortfolioIP.git
-Open terminal command line then navigate to the folder of the application. cd WEEK2-PORTFOLIOIP
-open index.html on your web browser
+ clone this repository to a folder git@github.com:rossyvee/week2-PortfolioIP.git
+ Open terminal command line then navigate to the folder of the application. cd WEEK2-PORTFOLIOIP
+ open index.html on your web browser
 
 
 ## Behaviour Drive and DEvelopment
@@ -40,7 +40,7 @@ INPUT: ""
 Clears Form and Reset the Message on Click
 * [x] INPUT: "Click Reset Button"
 OUTPUT: "Clears and Resets the Form"
-[live-link](git@github.com:rossyvee/week2-PortfolioIP.git)
+[live-link]( https://rossyvee.github.io/week2-PortfolioIP/)
 ## Reference
   ### The reference materials used in this project can be accessed though this link
   * [Resource](https://moringaschool.instructure.com/courses/586/assignments/9279?module_item_id=53094)
