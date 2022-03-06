@@ -1,4 +1,4 @@
-##### ROSELINE AKINYI
+# Akan Names
 - A Description of the Akan Names
 ## Table of Content
 + [Description](#description)
